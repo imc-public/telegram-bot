@@ -1,6 +1,6 @@
 ## IMC Telegram Web App Bot
 
-Bot parses messages in the public channel and adds a button with the web app URL.
+Bot parses messages in the public channel and adds a button with the web app URL, sending message to the channel.
 
 ## Installation
 
